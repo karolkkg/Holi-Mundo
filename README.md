@@ -1,3 +1,6 @@
+Bienvenido a GitHub
+Creando un repositorio
+Fecha de elaboración 26/10/22
 
 echo "# Holi-Mundo" >> README.md 
 git init 
